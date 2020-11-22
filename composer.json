@@ -1,0 +1,22 @@
+{
+    "name": "nexy/pix",
+    "description": "Gerador de QRCode Pix",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "author": {
+        "name": "Ricardo Coelho",
+        "email": "ricardo@nexy.com.br"
+    },
+    "keywords": [
+        "Pix",
+        "QRCode"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nexy\\Pix\\": "src/"
+        }
+    },
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
