@@ -12,7 +12,7 @@ Referência: https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunio
 Para instalar a biblioteca no seu projeto, utilize o `composer`:
 
 ```
-composer require nexy/pix:1.0.0
+composer require nexy/pix
 ```
 
 
