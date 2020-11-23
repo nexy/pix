@@ -53,7 +53,8 @@ $pix->lojista('Fulano de Tal');
 $pix->cidade('BRASILIA');
 $pix->pais('BR');
 $pix->moeda(986); // Real brasileiro (BRL) - Conforme ISO 4217: https://pt.wikipedia.org/wiki/ISO_4217
-$pix->textoAdicional('***'); // Utilize o número do pedido/parcela ou outro campo único para o pagamento.
+$pix->info('Descritivo');
+$pix->txId('***'); // Utilize o número do pedido/parcela ou outro campo único para o pagamento.
 ```
 
 ### Obter o link de pagamento
