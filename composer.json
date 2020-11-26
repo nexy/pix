@@ -1,12 +1,19 @@
 {
-    "name": "nexy/pix",
-    "description": "Gerador de QRCode Pix",
+    "name": "jrodella/pix",
+    "description": "Isso é uma fork de: nexy/pix",
     "type": "library",
+    "version": "1.0.0",
     "license": "GPL-3.0-only",
-    "author": {
-        "name": "Ricardo Coelho",
-        "email": "ricardo@nexy.com.br"
-    },
+    "authors": [
+        {
+            "name": "Ricardo Coelho",
+            "email": "ricardo@nexy.com.br"
+        },
+        {
+            "name": "Jonathan R Delgado",
+            "email": "jon.delgado@outlook.com"
+        }
+    ],
     "keywords": [
         "Pix",
         "QRCode"
